@@ -1,5 +1,7 @@
 # Podisen: Clone yourself from whatsapp chat history 🤖
 
+![Podisen - Clone Yourself](banner.png)
+
 Podisen is a WhatsApp chatbot that creates a personalized AI clone of you by learning from your whatsapp chat history. 
 
 With enough quality data, it will deeply understands how you respond, communication style & preferences. You can deploy your clone to a dedicated whatsapp account. Feel free to reach out if you have any questions or suggestions!
